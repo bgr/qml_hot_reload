@@ -1,0 +1,2 @@
+watchdog
+# additionally, the environment should have PyQt5 installed and working
